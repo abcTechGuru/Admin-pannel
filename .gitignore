@@ -1,0 +1,12 @@
+# Node modules
+node_modules/
+backend/
+
+# Build output
+dist/
+build/
+
+
+
+# IDEs
+.vscode/
