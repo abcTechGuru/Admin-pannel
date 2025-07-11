@@ -1,7 +1,7 @@
 import axios from "axios";
 
 export const api = axios.create({
-  baseURL: "http://18.208.165.98/api", // Change if needed
+  baseURL: "https://adminapi.maplemindlabs.com/api", // Change if needed
   // baseURL: "http://localhost:5000/api", // Change if needed
 });
 
